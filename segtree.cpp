@@ -83,3 +83,6 @@ public:
     }
 };
 //0 indexed segtree
+// use put function to put your vector as segtree vector
+// whenever using query the output is a node not a value
+// use neutral value according to need
